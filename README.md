@@ -2,7 +2,7 @@
 
 Dashboard interativo de vendas de uma loja de artigos esportivos (camisas, shorts, moletons e jaquetas de times e seleções), com 12 meses de pedidos (nov/2025 a out/2026). Tudo cabe em **um único arquivo HTML** que funciona offline e pode ser atualizado com uma planilha nova direto pelo navegador.
 
-🔗 **Acesse o dashboard:** https://SEU-USUARIO.github.io/dashboard-vendas-esportes/
+🔗 **Acesse o dashboard:** https://marcospiauhy.github.io/dashboard-vendas-esportes/
 
 🎬 **Vídeo do tour (1:49):** [`video/Video_Dashboard_Vendas.mp4`](video/Video_Dashboard_Vendas.mp4)
 
